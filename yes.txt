@@ -1,6 +1,6 @@
 return{
     "xd",
     "noob",
-    "yay"
-    "testing if works"
+    "yay",
+    "testing if works",
 }
